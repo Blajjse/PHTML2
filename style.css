@@ -1,0 +1,32 @@
+:root {
+    --font-family: "Playfair Display", sans-serif;
+    --second-family: "Ubuntu", sans-serif;
+  }
+  .header-link {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    color: #7d7d7d;
+  }
+  .fotoblog-subtitle {
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 14px;
+    color: #b4ad9e;
+  }
+  .fotoblog-title {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 30px;
+    color: #626262;
+  }
+  .fotoblog-des {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    color: #626262;
+  }
+.hero-button {
+    width: 165px;
+    height: 60px;
+}
